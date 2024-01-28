@@ -6,6 +6,7 @@ function App() {
     <div className="App">
 <h1>git status</h1>
     <h1>git add .</h1>
+    <h1>git commit -m "added items"</h1>
     </div>
   );
 }
