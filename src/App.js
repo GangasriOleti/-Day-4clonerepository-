@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
 <h1>git status</h1>
+    <h1>git add .</h1>
     </div>
   );
 }
