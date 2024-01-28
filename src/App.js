@@ -7,6 +7,7 @@ function App() {
 <h1>git status</h1>
     <h1>git add .</h1>
     <h1>git commit -m "added items"</h1>
+    <h1>ew have to use git push in terminal</h1>
     </div>
   );
 }
